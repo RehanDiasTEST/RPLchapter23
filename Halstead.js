@@ -1,6 +1,6 @@
 // Membaca kode sumber dari file source_code.js
 const fs = require('fs');
-const sourceCode = fs.readFileSync('source_code.js', 'utf-8');
+const sourceCode = fs.readFileSync('source.js', 'utf-8');
 
 // Mendefinisikan operator dan operand yang valid dalam JavaScript
 const operators = ['+', '-', '*', '/', '%', '=', '==', '===', '!=', '!==', '<', '<=', '>', '>=', '&&', '||', '!', '?', ':', '.', ',', ';', '{', '}', '[', ']', '(', ')', 'function', 'if', 'else', 'for', 'while', 'do', 'switch', 'case', 'break', 'default', 'return', 'const', 'let', 'var'];
