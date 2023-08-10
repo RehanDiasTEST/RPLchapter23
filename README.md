@@ -1,5 +1,5 @@
 
-# Analisis Metrik dan Pembangkitan Jadwal Kuliah
+# Analisis Metrik dan Membuat Pilihan Kemungkinan KRS Kuliah
 
 Proyek ini dibuat sebagai bagian dari penyelesaian soal di Chapter 23. Ini melibatkan tiga komponen utama yang bertujuan untuk melakukan analisis metrik pada kode JavaScript dan membangkitkan berbagai kemungkinan jadwal kuliah yang unik.
 
