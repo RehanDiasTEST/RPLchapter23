@@ -1,7 +1,6 @@
 # Tugas RPL Chapter 23 - Mengecek Jadwal dan Menghitung Kompleksitas Siklomatis
 
-## Nama
-Rehan Dias Pratama
+Dengan saya Rehan Dias Pratama
 
 ## Tugas
 Mengerjakan tugas Chapter 23 Rekayasa Perangkat Lunak (RPL) yang melibatkan pembuatan sebuah aplikasi untuk mengecek jadwal dari kode sumber (source.js) dan menghitung kompleksitas siklomatis dari modul bahasa pemrograman yang telah diberikan.
