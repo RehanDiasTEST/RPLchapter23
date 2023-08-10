@@ -1,4 +1,4 @@
-// Membaca kode sumber dari file source_code.js
+// Membaca kode sumber dari file source.js
 const fs = require('fs');
 const sourceCode = fs.readFileSync('source.js', 'utf-8');
 
