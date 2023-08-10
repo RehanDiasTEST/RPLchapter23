@@ -1,5 +1,4 @@
 
-Tentu! Berikut adalah contoh README.md yang menjelaskan penggunaan tiga file JavaScript dan satu file JSON untuk menjawab soal di Chapter 23:
 
 ```markdown
 # Analisis Metrik dan Pembangkitan Jadwal Kuliah
