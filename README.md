@@ -63,4 +63,4 @@ node jadwal.js
 ---
 
 Dibuat dengan :heart: oleh [Rehan Dias Pratama].
-```
+
