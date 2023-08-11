@@ -41,7 +41,7 @@ npm install
 Jalankan masing-masing skrip dengan perintah berikut:
 
 ```bash
-node source_code.js
+node source.js
 ```
 
 ```bash
