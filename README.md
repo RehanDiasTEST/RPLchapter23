@@ -32,7 +32,8 @@ You can use these three scripts to perform metric analysis on JavaScript code an
 Make sure you have Node.js installed on your computer.
 
 ```bash
-npm install
+git clone https://github.com/RehanDiasTEST/RPLchapter23.git
+cd RPLchapter23
 ```
 
 ## 🏃 How to Run 
