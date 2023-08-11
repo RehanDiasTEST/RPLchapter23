@@ -52,3 +52,8 @@ node jadwal.js
 
 Dibuat dengan :heart: oleh [Rehan Dias Pratama].
 
+
+## ⚠️ Peringatan ⚠️
+
+Kode yang ada dalam repositori ini masih dalam tahap awal pengembangan. Sebagian besar fungsionalitas mungkin belum diimplementasikan atau berjalan dengan benar. jadi mungkin masih ada error atau bug.
+
