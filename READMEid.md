@@ -32,7 +32,8 @@ Anda dapat menggunakan tiga skrip ini untuk melakukan analisis metrik pada kode 
 Pastikan Anda memiliki Node.js yang terinstal di komputer Anda.
 
 ```bash
-npm install
+git clone https://github.com/RehanDiasTEST/RPLchapter23.git
+cd RPLchapter23
 ```
 
 ## 🏃 Cara Menjalankan 
