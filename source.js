@@ -98,7 +98,7 @@ const possibleSchedules = generateUniqueSchedules(numSchedules);
 
 console.log(`Berbagai Kemungkinan Jadwal (${numSchedules} Kemungkinan):\n`);
 possibleSchedules.forEach((schedule, index) => {
-	console.log(`Kemungkinan ${index + 1}:`);
+	console.log(`Kemungkinan KRS Ke-${index + 1}:`);
 	console.table(schedule);
 	console.log("\n");
 });
