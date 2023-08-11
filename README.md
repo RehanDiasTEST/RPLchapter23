@@ -53,7 +53,8 @@ node siklomatik.js
 node jadwal.js
 ```
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehandiazz) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehandiazz)  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/rehandiasp) 
+
 
 ## ⚠️ Warning ⚠️ 
 The code contained in this repository is still in the early stages of development. Most functionality may not be implemented or running correctly yet. So there may still be errors or bugs.
