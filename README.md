@@ -51,6 +51,6 @@ node siklomatik.js
 node jadwal.js
 ```
 
-## ⚠️ ⚠️ Warning
+## ⚠️ Warning ⚠️ 
 
 The code contained in this repository is still in the early stages of development. Most functionality may not be implemented or running correctly yet. So there may still be errors or bugs.
