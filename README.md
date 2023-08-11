@@ -51,9 +51,6 @@ node siklomatik.js
 node jadwal.js
 ```
 
----
-
-Dibuat dengan :heart: oleh [Rehan Dias Pratama].
 
 
 ## ⚠️ Peringatan ⚠️
