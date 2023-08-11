@@ -1,7 +1,8 @@
 # 📊 Analyze Metrics and Make Possible Choices for College KRS 
 ---
 
-Created with :heart: by [Rehan Dias Pratama](https://www.instagram.com/rehandiazz/).
+Created with :heart: by [Rehan Dias Pratama](https://www.instagram.com/rehandiazz/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rehandiazz) 
 
 This project was created as part of the Chapter 23 problem solving. It involves three main components that aim to perform metric analysis on JavaScript code and generate unique course schedule possibilities.
 
