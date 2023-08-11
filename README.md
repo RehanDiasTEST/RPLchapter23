@@ -2,6 +2,13 @@
 ---
 
 Dibuat dengan :heart: oleh [Rehan Dias Pratama]().
+<div align="left">
+  <a href="https://www.instagram.com/rehandiazz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 
 Proyek ini dibuat sebagai bagian dari penyelesaian soal di Chapter 23. Ini melibatkan tiga komponen utama yang bertujuan untuk melakukan analisis metrik pada kode JavaScript dan membangkitkan berbagai kemungkinan jadwal kuliah yang unik.
 
