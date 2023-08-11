@@ -1,43 +1,43 @@
-# 📊 Analisis Metrik dan Membuat Pilihan Kemungkinan KRS Kuliah 
+# 📊 Analyze Metrics and Make Possible Choices for College KRS 
 ---
 
-Dibuat dengan :heart: oleh [Rehan Dias Pratama](https://www.instagram.com/rehandiazz/).
+Created with :heart: by [Rehan Dias Pratama](https://www.instagram.com/rehandiazz/).
 
-Proyek ini dibuat sebagai bagian dari penyelesaian soal di Chapter 23. Ini melibatkan tiga komponen utama yang bertujuan untuk melakukan analisis metrik pada kode JavaScript dan membangkitkan berbagai kemungkinan jadwal kuliah yang unik.
+This project was created as part of the Chapter 23 problem solving. It involves three main components that aim to perform metric analysis on JavaScript code and generate unique course schedule possibilities.
 
-## 📝 Deskripsi 
+## 📝 Description 
 
-Proyek ini bertujuan untuk memberikan solusi bagi soal di Chapter 23 dengan menerapkan analisis metrik pada kode JavaScript dan membangkitkan berbagai jadwal kuliah yang memenuhi batasan yang diberikan.
+This project aims to provide a solution to the problem in Chapter 23 by applying metric analysis to JavaScript code and generating various timetables that satisfy the given constraints.
 
-## 💻 Kegunaan Kode 
+## 💻 Code Usage 
 
 [`source.js`]
 
-File `source.js` membaca dan menganalisis metrik Halstead dari kode sumber JavaScript. Metrik Halstead digunakan untuk mengukur kompleksitas dan ukuran kode berdasarkan operator dan operand yang berbeda, serta total operator dan operand.
+The `source.js` file reads and analyzes Halstead metrics from JavaScript source code. Halstead metrics are used to measure the complexity and size of code based on different operators and operands, as well as total operators and operands.
 
 [`siklomatik.js`]
 
-File `siklomatik.js` menghitung kompleksitas siklomatik dari kode sumber JavaScript. Kompleksitas siklomatik mengukur seberapa kompleks aliran kontrol dalam kode program, dengan memperhitungkan struktur pengendalian seperti if, switch, for, dan lain-lain.
+The `siklomatik.js` file calculates the cyclomatic complexity of JavaScript source code. Cyclomatic complexity measures how complex the control flow is in the program code, taking into account control structures such as if, switch, for, and others.
 
 [`jadwal.js`]
 
-File `jadwal.js` memanfaatkan data mata kuliah, waktu, dan ruang kelas yang diberikan dalam file JSON untuk membangkitkan berbagai kemungkinan jadwal kuliah. Kode ini menghindari duplikasi mata kuliah dalam jadwal dan menghasilkan variasi jadwal yang unik.
+The `jadwal.js` file utilizes the course, time, and classroom data provided in the JSON file to generate various possible lecture schedules. It avoids duplication of courses in the schedule and generates unique schedule variations.
 
-## 🚀 Cara Penggunaan 
+## 🚀 How to use 
 
-Anda dapat menggunakan tiga skrip ini untuk melakukan analisis metrik pada kode JavaScript dan membangkitkan berbagai kemungkinan jadwal kuliah yang unik.
+You can use these three scripts to perform metric analysis on JavaScript code and generate unique course schedules.
 
-## 🔧 Instalasi 
+## 🔧 Installation 
 
-Pastikan Anda memiliki Node.js yang terinstal di komputer Anda.
+Make sure you have Node.js installed on your computer.
 
 ```bash
 npm install
 ```
 
-## 🏃 Cara Menjalankan 
+## 🏃 How to Run 
 
-Jalankan masing-masing skrip dengan perintah berikut:
+Run each script with the following command:
 
 ```bash
 node source.js
@@ -51,8 +51,6 @@ node siklomatik.js
 node jadwal.js
 ```
 
+## ⚠️ ⚠️ Warning
 
-
-## !⚠️ Peringatan ⚠️!
-
-Kode yang ada dalam repositori ini masih dalam tahap awal pengembangan. Sebagian besar fungsionalitas mungkin belum diimplementasikan atau berjalan dengan benar. Jadi mungkin masih ada error atau bug.
+The code contained in this repository is still in the early stages of development. Most functionality may not be implemented or running correctly yet. So there may still be errors or bugs.
