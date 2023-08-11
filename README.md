@@ -12,16 +12,16 @@ Proyek ini bertujuan untuk memberikan solusi bagi soal di Chapter 23 dengan mene
 
 ## Kegunaan Kode
 ```bash
-1. source.js
+source.js
 ```
 
 File `source.js` membaca dan menganalisis metrik Halstead dari kode sumber JavaScript. Metrik Halstead digunakan untuk mengukur kompleksitas dan ukuran kode berdasarkan operator dan operand yang berbeda, serta total operator dan operand.
 ```bash
-2. siklomatik.js
+siklomatik.js
 ```
 File `siklomatik.js` menghitung kompleksitas siklomatik dari kode sumber JavaScript. Kompleksitas siklomatik mengukur seberapa kompleks aliran kontrol dalam kode program, dengan memperhitungkan struktur pengendalian seperti if, switch, for, dan lain-lain.
 ```bash
-3. jadwal.js
+jadwal.js
 ```
 File `jadwal.js` memanfaatkan data mata kuliah, waktu, dan ruang kelas yang diberikan dalam file JSON untuk membangkitkan berbagai kemungkinan jadwal kuliah. Kode ini menghindari duplikasi mata kuliah dalam jadwal dan menghasilkan variasi jadwal yang unik.
 
