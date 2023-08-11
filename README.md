@@ -11,17 +11,18 @@ Proyek ini dibuat sebagai bagian dari penyelesaian soal di Chapter 23. Ini melib
 Proyek ini bertujuan untuk memberikan solusi bagi soal di Chapter 23 dengan menerapkan analisis metrik pada kode JavaScript dan membangkitkan berbagai jadwal kuliah yang memenuhi batasan yang diberikan.
 
 ## Kegunaan Kode
-
-### 1. source.js
+```bash
+1. source.js
+```
 
 File `source.js` membaca dan menganalisis metrik Halstead dari kode sumber JavaScript. Metrik Halstead digunakan untuk mengukur kompleksitas dan ukuran kode berdasarkan operator dan operand yang berbeda, serta total operator dan operand.
-
-### 2. siklomatik.js
-
+```bash
+2. siklomatik.js
+```
 File `siklomatik.js` menghitung kompleksitas siklomatik dari kode sumber JavaScript. Kompleksitas siklomatik mengukur seberapa kompleks aliran kontrol dalam kode program, dengan memperhitungkan struktur pengendalian seperti if, switch, for, dan lain-lain.
-
-### 3. jadwal.js
-
+```bash
+3. jadwal.js
+```
 File `jadwal.js` memanfaatkan data mata kuliah, waktu, dan ruang kelas yang diberikan dalam file JSON untuk membangkitkan berbagai kemungkinan jadwal kuliah. Kode ini menghindari duplikasi mata kuliah dalam jadwal dan menghasilkan variasi jadwal yang unik.
 
 ## Cara Penggunaan
